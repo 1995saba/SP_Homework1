@@ -1,0 +1,10 @@
+c:\users\hp\documents\visual studio 2017\Projects\SP_Homework1\SP_Homework1\bin\Debug\SP_Homework1.exe.config
+c:\users\hp\documents\visual studio 2017\Projects\SP_Homework1\SP_Homework1\bin\Debug\SP_Homework1.exe
+c:\users\hp\documents\visual studio 2017\Projects\SP_Homework1\SP_Homework1\bin\Debug\SP_Homework1.pdb
+c:\users\hp\documents\visual studio 2017\Projects\SP_Homework1\SP_Homework1\obj\Debug\SP_Homework1.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2017\Projects\SP_Homework1\SP_Homework1\obj\Debug\SP_Homework1.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2017\Projects\SP_Homework1\SP_Homework1\obj\Debug\SP_Homework1.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2017\Projects\SP_Homework1\SP_Homework1\obj\Debug\SP_Homework1.csproj.CoreCompileInputs.cache
+c:\users\hp\documents\visual studio 2017\Projects\SP_Homework1\SP_Homework1\obj\Debug\SP_Homework1.exe
+c:\users\hp\documents\visual studio 2017\Projects\SP_Homework1\SP_Homework1\obj\Debug\SP_Homework1.pdb
+c:\users\hp\documents\visual studio 2017\Projects\SP_Homework1\SP_Homework1\obj\Debug\SP_Homework1.Form.resources
